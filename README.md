@@ -125,7 +125,8 @@ Git para gestionar el repositorio.
 
 Clonar el repositorio cuando esté publicado:
 
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/useranonimous09/PA3_BrunoMendoza.git
+
 cd PA3_BrunoMendoza
 
 Instalar el frontend
