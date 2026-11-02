@@ -394,7 +394,7 @@ Exclusión de archivos privados mediante .gitignore.
 
 16. Repositorio de GitHub
 
-Enlace público: PENDIENTE_DE_AGREGAR_URL_DEL_REPOSITORIO
+Enlace público: https://github.com/useranonimous09/PA3_BrunoMendoza
 
 El repositorio contiene el frontend, el backend, la documentación y los archivos necesarios para instalar y ejecutar LOOKINGTYLE.
 
